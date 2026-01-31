@@ -1,1 +1,2 @@
-"print('hello git cursor')" 
+mensagem = "hello git"
+print(mensagem) 
